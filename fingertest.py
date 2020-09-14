@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep 14 19:43:12 2020
+@author: asrinhaktansahin
+"""
+
 import time
 import datetime
 print("Please type your text after 3 seconds")
