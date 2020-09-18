@@ -123,6 +123,8 @@ class transactions(math_class):
             elif choose == "15":
                 valuea = int(input("enter the radius value : "))
                 print("Transaction result :",math_class().CircleAr(valuea,numpi))
+            else:
+                print("Incorrect Value")
 
 
                 
