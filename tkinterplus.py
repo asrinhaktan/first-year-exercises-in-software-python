@@ -30,33 +30,3 @@ b.grid(row=0, column=2,columnspan=2)
  
  
 mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
